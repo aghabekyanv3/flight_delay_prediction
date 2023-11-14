@@ -44,6 +44,9 @@ Follow these steps to use the project:
 4. Analyze the model performance metrics, including accuracy and F1 score.
 5. Review visualizations such as correlation matrices and heatmaps to gain insights into feature relationships.
 
+## Upcoming Additions
+This project is an initial model, and future updates will include the incorporation of additional machine learning algorithms for comparison and improvement.
+
 ## Credits
 - The project code and concepts were inspired by the [DataCamp tutorial on Naive Bayes](https://www.datacamp.com/tutorial/naive-bayes-scikit-learn).
 - The dataset used for this project was sourced from this [Kaggle Dataset](https://www.kaggle.com/datasets/threnjen/2019-airline-delays-and-cancellations?select=train.csv).
