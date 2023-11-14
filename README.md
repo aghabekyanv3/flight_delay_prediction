@@ -46,7 +46,7 @@ Follow these steps to use the project:
 
 ## Credits
 - The project code and concepts were inspired by the [DataCamp tutorial on Naive Bayes](https://www.datacamp.com/tutorial/naive-bayes-scikit-learn).
-- The dataset used for this project may be sourced from various aviation databases.
+- The dataset used for this project was sourced from this [Kaggle Dataset](https://www.kaggle.com/datasets/threnjen/2019-airline-delays-and-cancellations?select=train.csv).
 
 ## License
 This project is licensed under the [MIT License](LICENSE), which allows others to freely use, modify, and distribute the code, with appropriate credit given.
